@@ -13,4 +13,4 @@ Once all external libraries are installed:
 2) 'python3 app.py' in terminal, copy link to local host into web browser
 
 *Note*
-Teams must be entered into fields by their nickname. I.e. 'Trail Blazers'/'Lakers'.
+Teams must be entered into fields capitalized by their nickname. Ex: 'Trail Blazers'/'Lakers'.
