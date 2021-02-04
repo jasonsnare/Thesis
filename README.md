@@ -1,7 +1,7 @@
 The purpose of this app is to predict the spread and over/under of any given NBA game using neural networks. The neural net models were built with Keras
 and the UI is deployed with microweb framework Flask.
 
-*MAC INSTRUCTIONS*\\
+*MAC INSTRUCTIONS*\n
 Running for first time run the following terminal commands:
 1) '/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"'
 2) 'brew install python3'
