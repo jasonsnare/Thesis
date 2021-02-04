@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ANN NBA Betting Predictor</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+	<script src="{{ url_for('static', filename='js/form1.js') }}"></script>
+    <h1 style="text-align:center">Jason Snare CS Thesis Project</h1>
+    <link rel="shortcut icon" type="image/png" href="ball.png">
+</head>
+<br>
+<body style="background-color:Azure;">
+    <div class="container">
+        <h3 style="text-align:center">NBA Neural Net Betting Predictions</h3>
+        <p style="text-align:center"><a href="{{ url_for('overunder') }}">Over/Under Model</a> </p>
+        <p style="text-align:center"><a href="{{ url_for('spread') }}">Spread Model</a> </p>
+        <p style="text-align:center"> View daily betting odds <a href="http://www.espn.com/nba/lines/_/date">here</a>.</p>
+    </div>
+
+</body>
+</html>
