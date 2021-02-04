@@ -9,7 +9,7 @@ Running for first time run the following terminal commands:
 5) pip3 install pandas
 
 Once all external libraries are installed:
-1) navigate to this folder (i.e. 'cd')
+1) navigate to this folder (i.e. 'cd Downloads', 'cd FOLDERNAME')
 2) 'python3 app.py' in terminal, copy link to local host into web browser
 
 *Note*
