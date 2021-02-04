@@ -2,6 +2,7 @@ The purpose of this app is to predict the spread and over/under of any given NBA
 and the UI is deployed with microweb framework Flask.
 
 Running for first time run the following terminal commands:
+0) pip3
 1) pip3 install python3
 2) pip3 install tensorflow
 3) pip3 install flask
