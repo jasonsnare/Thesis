@@ -2,11 +2,10 @@ The purpose of this app is to predict the spread and over/under of any given NBA
 and the UI is deployed with microweb framework Flask.
 
 Running for first time run the following terminal commands:
-1) pip install pip3
-2) pip3 install python3
-3) pip3 install tensorflow
-4) pip3 install flask
-5) pip3 install pandas
+1) pip3 install python3
+2) pip3 install tensorflow
+3) pip3 install flask
+4) pip3 install pandas
 
 Once all external libraries are installed:
 1) navigate to this folder (i.e. 'cd Downloads', 'cd FOLDERNAME')
