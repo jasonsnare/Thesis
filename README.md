@@ -12,5 +12,5 @@ Once all external libraries are installed:
 1) navigate to this folder (i.e. 'cd Downloads', 'cd FOLDERNAME')
 2) 'python3 app.py' in terminal, copy link to local host into web browser
 
-*Note*
+*Note* -- 
 Teams must be entered into fields capitalized by their nickname. Ex: 'Trail Blazers'/'Lakers'.
