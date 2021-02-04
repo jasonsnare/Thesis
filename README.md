@@ -1,5 +1,5 @@
 The purpose of this app is to predict the spread and over/under of any given NBA game using neural networks. The neural net models were built with Keras
-and the UI is deployed to microweb framework Flask.
+and the UI is deployed with microweb framework Flask.
 
 Running for first time run the following terminal commands:
 1) pip install pip3
